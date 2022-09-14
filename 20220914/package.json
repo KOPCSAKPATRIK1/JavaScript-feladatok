@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/KOPCSAKPATRIK1/JavaScript-feladatok/issues"
   },
-  "homepage": "https://github.com/KOPCSAKPATRIK1/JavaScript-feladatok#readme"
+  "homepage": "https://github.com/KOPCSAKPATRIK1/JavaScript-feladatok#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }
