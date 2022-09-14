@@ -1,5 +1,5 @@
 import { veletlen } from './matek.js';
-import { LOREM, NEV} from './kulonleges.js';
+import { LOREM, NEV} from '../kulonleges.js';
 //import { concat } from 'lodash';
 import _ from 'lodash';
 
