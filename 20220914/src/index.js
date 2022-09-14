@@ -3,9 +3,11 @@ import { LOREM, NEV} from '../kulonleges.js';
 //import { concat } from 'lodash';
 import _ from 'lodash';
 
-
-
-
+function katt()
+{
+    alert('LETS GET LIIIIIIIIIIIIT')
+}
+document.getElementById("gomb").addEventListener('click', katt);
 
 console.log("csok");
 console.log(veletlen(5, 10));
