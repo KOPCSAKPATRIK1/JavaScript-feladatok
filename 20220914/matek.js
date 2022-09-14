@@ -1,4 +1,4 @@
-veletlen(min, max)
+export function veletlen(min, max)
 {
-       Math.floor(min + Math.random() * (max - min))
+      return Math.floor(min + Math.random() * (max - min))
 }
