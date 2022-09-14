@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/KOPCSAKPATRIK1/JavaScript-feladatok#readme",
   "dependencies": {
-    "lodash": "^4.17.21"
+    "lodash": "^4.17.21",
+    "webpack": "^5.74.0"
   }
 }
