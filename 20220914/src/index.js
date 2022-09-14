@@ -4,6 +4,9 @@ import { LOREM, NEV} from '../kulonleges.js';
 import _ from 'lodash';
 
 
+
+
+
 console.log("csok");
 console.log(veletlen(5, 10));
 console.log(NEV + ' ' + LOREM);
